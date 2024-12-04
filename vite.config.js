@@ -1,5 +1,5 @@
 export default {
-  optimizeDeps: {
-    include: ['swiper'],
-  },
+  build: {
+    outDir: "dist"  
+  }
 };
