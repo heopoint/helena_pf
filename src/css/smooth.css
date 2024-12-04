@@ -1,0 +1,15 @@
+#home {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background: #f0f0f0;
+}
+.box {
+  width: 100px;
+  height: 100px;
+  background: #3498db;
+  border-radius: 10px;
+  cursor: grab;
+}

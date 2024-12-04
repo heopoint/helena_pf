@@ -1,0 +1,22 @@
+ .project{width: 1200px;
+margin: auto;
+}
+
+.swiper {
+  width: 100%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.swiper-slide {
+  background-position: center;
+  background-size: cover;
+  width: 300px;
+  height: 500px;
+  overflow: hidden;
+}
+
+.swiper-slide img {
+  display: block;
+  height: 100%;
+}

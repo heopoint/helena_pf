@@ -1,0 +1,6 @@
+@import './src/css/reset.css';
+@import './src/css/smooth.css';
+@import 'lenis/dist/lenis.css';
+ @import './src//css/cubeswiper.css';
+
+ section{min-height:100vh;border: 1px solid #000;}
