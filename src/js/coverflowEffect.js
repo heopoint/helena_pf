@@ -1,4 +1,6 @@
- import Swiper from 'swiper'
+import Swiper from 'swiper/bundle';
+import 'swiper/css/bundle';
+
 export function coverflowEffect() {
   var swiper = new Swiper(".mySwiper", {
     effect: "coverflow",
